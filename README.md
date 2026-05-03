@@ -27,7 +27,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Masc20&locale=en&mode=daily&theme=material-palenight&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=Masc20&theme=material-palenight&column=-1&row=1" height="150" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=Masc20&theme=transparent&column=-1&row=1" height="150" alt="trophy graph" />
 </div>
 
 ###
