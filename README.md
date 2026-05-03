@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mel</h1>
-- 🔭 I’m currently working on [LuminaPoll](https://github.com/jowanaur21/LuminaPoll)
+- 🔭 I’m currently working on [LuminaPoll] (https://github.com/jowanaur21/LuminaPoll)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
