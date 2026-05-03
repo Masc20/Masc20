@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/melecio-andre-cabahug-06356837a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-melecio._.-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="discord username" />
+  <img src="https://img.shields.io/badge/Discord-melecio.%5F.%5F-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="discord username" />
 </div>
 
 ###
