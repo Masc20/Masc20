@@ -6,6 +6,7 @@
   <img src="https://skillicons.dev/icons?i=kotlin,java,py,php" height="60" alt="languages" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring,react,nextjs,aws,docker" height="60" alt="frameworks & tools" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masc20&layout=compact&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="top languages" />
 </div>
 
 ###
