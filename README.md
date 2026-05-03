@@ -3,17 +3,24 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,py,php,dart,solidity" height="60" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,py,php" height="60" alt="languages" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter,spring,react,nextjs,aws,docker" height="60" alt="frameworks & tools" />
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,aws,docker" height="60" alt="frameworks & tools" />
 </div>
 
 ###
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin" /></a>
-  <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="twitter" /></a>
-  <a href="YOUR_DISCORD_URL"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="discord" /></a>
+  <a href="https://www.facebook.com/melecioandrescabahug/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" alt="facebook logo" />
+  </a>
+  <a href="mailto:melecioandrescabahug@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/melecio-andre-cabahug" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-melecio._.-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="discord username" />
 </div>
 
 ###
