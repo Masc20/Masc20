@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,java,py,php" height="60" alt="languages" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,aws,docker" height="60" alt="frameworks & tools" />
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,svelte" height="60" alt="frameworks & tools" />
 </div>
 
 ###
