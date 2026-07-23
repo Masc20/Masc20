@@ -22,7 +22,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: 'breakout, bomberman, pacman'
+          games: 'bomberman, breakout, pacman'
 
 
       - name: push breakout-contribution-graph.svg to the output branch
